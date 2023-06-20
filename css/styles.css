@@ -5,6 +5,7 @@
     --text-color: #434455;
     --light-color: #F4F4FD;
     --white-background-color: #FFFFFF;
+    --accent-color: #E7E9FC;
     --font-family-text: 'Roboto', sans-serif;
     --second-font-family-text: 'Raleway', sans-serif;
 }
@@ -359,7 +360,7 @@ a {
     background-color: var(--light-color);
     cursor: pointer;
     padding: 12px 24px;
-    border: 1px solid #e7e9fc;
+    border: 1px solid var(--accent-color);
     border-radius: 4px;
 }
 
