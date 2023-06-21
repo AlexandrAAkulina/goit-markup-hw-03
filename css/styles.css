@@ -129,9 +129,7 @@ a {
 .hero {
     padding-top: 188px;
     padding-bottom: 188px;
-    margin-bottom: 120px;
     background-color: var(--navy-blue-color);
-    margin-bottom: 120px;
 }
 
 .hero-title {
@@ -195,7 +193,6 @@ a {
     display: flex;
     justify-content: space-between;
     gap: 24px;
-    margin-bottom: 120px;
 }
 
 .prerogatives-item {
@@ -227,7 +224,6 @@ a {
 
 .specialization-list {
     display: flex;
-    margin-bottom: 120px;
     gap: 24px;
 }
 
@@ -242,7 +238,6 @@ a {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--navy-blue-color);
-    padding-bottom: 72px;
     margin-bottom: 72px;
 
 }
@@ -255,7 +250,6 @@ a {
 .team-list {
     display: flex;
     gap: 24px;
-    padding-bottom: 120px;
     flex-wrap: wrap;
 }
 
@@ -282,8 +276,6 @@ a {
 }
 
 .team-name {
-    padding-top: 32px;
-    padding-bottom: 8px;
     font-family: var(--font-family-text);
     font-weight: 500;
     font-size: 20px;
@@ -295,7 +287,6 @@ a {
 }
 
 .team-text {
-    padding-bottom: 32px;
     font-family: var(--font-family-text);
     font-size: 16px;
     line-height: 1.5;
@@ -323,7 +314,6 @@ a {
 }
 
 .footer-text {
-    padding-top: 16px;
     width: 264px;
     font-family: var(--font-family-text);
     font-size: 16px;
@@ -339,19 +329,16 @@ a {
 .filters-list {
     display: flex;
     gap: 24px;
-    padding: 12px 24px;
     justify-content: center;
     flex-direction: row;
     margin-bottom: 72px;
-    margin-top: 96px;
 }
 
 .filters-img {
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
-    row-gap: 48px;
-    margin-bottom: 120px;  
+    row-gap: 48px; 
 }
 
 .img-item {
@@ -385,8 +372,6 @@ a {
     padding: 32px 16px;
 }
 .img-name {
-    padding-top: 32px;
-    padding-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
